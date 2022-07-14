@@ -1,14 +1,14 @@
-# Chainbridge Quorum module
+# Sygma Quorum module
 <a href="https://discord.gg/ykXsJKfhgq">
   <img alt="discord" src="https://img.shields.io/discord/593655374469660673?label=Discord&logo=discord&style=flat" />
 </a>
 
-Chainbridge Quorum module is the part of Chainbrige-core framework. This module brings support of the Quorum compatible client module.
+Sygma Quorum module is the part of Sygma-core framework. This module brings support of the Quorum compatible client module.
 
 ## Usage
-Module should be used along with core [framework](https://github.com/ChainSafe/chainbridge-core).
+Module should be used along with core [framework](https://github.com/ChainSafe/sygma-core).
 
-[Example](https://github.com/ChainSafe/chainbridge-core-example)
+[Example](https://github.com/ChainSafe/sygma-core-example)
 
 ChainSafe Security Policy
 
