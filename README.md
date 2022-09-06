@@ -1,4 +1,4 @@
-# Sygma Quorum module
+# Chainbridge Quorum module
 <a href="https://discord.gg/ykXsJKfhgq">
   <img alt="discord" src="https://img.shields.io/discord/593655374469660673?label=Discord&logo=discord&style=flat" />
 </a>
